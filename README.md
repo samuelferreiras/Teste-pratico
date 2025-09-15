@@ -1,5 +1,3 @@
-# Teste-pratico-Iniflex
-
 # Teste Prático - Iniflex
 
 Este projeto foi desenvolvido como parte de um teste prático de programação para a Iniflex. O objetivo é demonstrar habilidades em programação Java, utilizando conceitos de orientação a objetos e manipulação de coleções de dados.
