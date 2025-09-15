@@ -36,5 +36,6 @@ O programa realiza as seguintes operações de gerenciamento de funcionários:
 
 ---
 
-**Tecnologias Utilizadas:**
+**Tecnologias Necessárias:**
 * **Java 11+**
+* **IDE recomendada: IntelliJ IDEA**
